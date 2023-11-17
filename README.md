@@ -1,3 +1,1 @@
 # gh-flow-practice
-
-## Index
